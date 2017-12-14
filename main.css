@@ -4,13 +4,14 @@ body{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	font-family: Roboto, Arial, sans-serif;
+	text-align: center;
 }
 
 h1{
 	color: #FFFFFF;
     text-shadow: 2px 2px #000000;
 	font-size: 40px;
-	float: right;
+	text-align: center;
 
 }
 
@@ -61,6 +62,7 @@ a:hover{
 .header{
 	width: 100%;
 	background-image: url("https://j.gifs.com/ZVV0vv.gif");
+	text-align: center;
 }
 
 .links{
